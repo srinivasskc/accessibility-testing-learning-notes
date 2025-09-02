@@ -1,6 +1,7 @@
 # accessibility-testing-learning-notes
 My Learnings based on Accessibility Testing
 
-## Day 1 -  ALT Text
-* **Link:** [https://github.com/srinivasskc/accessibility-testing-learning-notes/blob/main/reports/alt-text.md](https://github.com/srinivasskc/accessibility-testing-learning-notes/blob/main/reports/alt-text.md)
+## Day 1 -  [ALT Text](https://github.com/srinivasskc/accessibility-testing-learning-notes/blob/main/checklists/01-alt-text-testing.md)
+
+## Day 2 -  [Keyboard](https://github.com/srinivasskc/accessibility-testing-learning-notes/blob/main/checklists/02-keyboard-testing.md)
 
